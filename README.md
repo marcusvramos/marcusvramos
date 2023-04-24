@@ -1,4 +1,10 @@
 ### 👋 Olá! Eu me chamo Marcus Ramos!
+<div align="center">
+  <a href="https://github.com/IrineuAlmeidaJr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcus-rubcube&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-rubcube&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 <div align="left">
 
 ### :computer: Tecnologias que utilizo:
