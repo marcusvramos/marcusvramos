@@ -1,4 +1,13 @@
 ### 👋 Olá! Eu me chamo Marcus Ramos!
+
+### :rocket: GitHub Stats :
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcus-rubcube&theme=vision-friendly-dark&hide_border=false)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=marcus-rubcube&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-rubcube&layout=compact&theme=vision-friendly-dark)
+
 <div align="left">
 
 ### :computer: Tecnologias que utilizo:
