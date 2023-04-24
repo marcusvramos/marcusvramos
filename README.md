@@ -3,7 +3,7 @@
 <div align="left">
   
 <p>👨‍🎓 Cursando Ciência da Computação pela UNOESTE - FIPP.</br>
-👨‍💻 Sou apaixonado por tecnologia e sempre busco aprender coisas novas todos os dias...</br>
+👨‍💻 Sou apaixonado por tecnologia e sempre busco aprender novas tecnologias todos os dias...</br>
 💜 Atualmente estou estagiando em desenvolvimento de Software na Rubcube.</p>
   
 </div>
