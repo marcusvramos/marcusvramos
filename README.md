@@ -1,17 +1,19 @@
 ### 👋 Olá! Eu me chamo Marcus Ramos!
 
-### :rocket: GitHub Stats :
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcus-rubcube&theme=vision-friendly-dark&hide_border=false)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=marcus-rubcube&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-rubcube&layout=compact&theme=vision-friendly-dark)
+<div align="left">
+  
+<p>👨‍🎓 Cursando Ciência da Computação pela UNOESTE - FIPP.</br>
+👨‍💻 Sou apaixonado por tecnologia e sempre busco aprender coisas novas todos os dias...</br>
+💜 Atualmente estou estagiando em desenvolvimento de Software na Rubcube.</p>
+  
+</div>
 
 <div align="left">
-
+  
 ### :computer: Tecnologias que utilizo:
+  
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -34,4 +36,15 @@
   
  
 </div>
+</br>
+
+
+### :rocket: GitHub Stats :
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcus-rubcube&theme=vision-friendly-dark&hide_border=false)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=marcus-rubcube&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-rubcube&layout=compact&theme=vision-friendly-dark)
+
 
