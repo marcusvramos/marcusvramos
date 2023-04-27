@@ -41,10 +41,13 @@
 
 ### :rocket: GitHub Stats :
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcus-rubcube&theme=vision-friendly-dark&hide_border=false)
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=marcus-rubcube&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcus-rubcube&theme=vision-friendly-dark&hide_border=false)
+<div align="left">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-rubcube&layout=compact&theme=vision-friendly-dark)
+</div>
+
+
 
 
