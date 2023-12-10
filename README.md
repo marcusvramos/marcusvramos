@@ -10,7 +10,7 @@
 
 <div align="left">
   
-### :computer: Tecnologias que utilizo:
+### 🖥️​ Tecnologias que utilizo:
   
 </div>
 
@@ -39,7 +39,7 @@
 </br>
 
 
-### :rocket: GitHub Stats :
+### 🚀​ GitHub Stats :
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcusvramos&theme=vision-friendly-dark&hide_border=false)
 <div align="left">
