@@ -4,7 +4,7 @@
   
 <p>👨‍🎓 Cursando Ciência da Computação pela UNOESTE - FIPP.</br>
 👨‍💻 Sou apaixonado por tecnologia e sempre busco aprender novas ferramentas todos os dias...</br>
-💜 Engenheiro de Software Junior na Rubcube.</p>
+💜 Engenheiro de Software na Rubcube.</p>
   
 </div>
 
