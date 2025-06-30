@@ -2,7 +2,7 @@
 
 I am a **Software Engineer at Alfa Entretenimento S/A** and a **Computer Science student at UNOESTE - FIPP**. Passionate about technology, I am always looking to learn and apply new tools to develop efficient and innovative solutions.
 
-🚀 With experience in **front-end and back-end development**, I work with technologies such as **React, TypeScript, Java, Node.js, AWS, and infrastructure management with Terraform**. Additionally, I am enthusiastic about **observability and monitoring**, using tools like **New Relic** to ensure application performance and stability.
+🚀 With experience in **front-end and back-end development**, I work with technologies such as **React, TypeScript, Java, Node.js, AWS, and infrastructure management with Terraform**. Additionally, I am enthusiastic about **observability and monitoring**, using tools like **New Relic** and **Grafana** to ensure application performance and stability.
 
 📚 I also teach at **CR Cursos Preparatórios**, covering IT topics for public service exams, including **Operating Systems, Computer Networks, and Information Security**.
 
