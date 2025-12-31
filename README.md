@@ -111,36 +111,7 @@ const marcus: Developer = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvramos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvramos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcusvramos&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea"/>
-</div>
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" /> Achievements
-
-<div align="center">
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployed-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Serverless-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Certified-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-<div align="center">
-
-| Achievement | Description |
-|:-----------:|-------------|
-| **80%+ Approval Rate** | Students passing public service IT exams |
-| **Millions of Transactions** | Processing real-time in iGaming platforms |
-| **90% Query Optimization** | Database performance improvement |
-| **3 Integrated Systems** | Built complete educational ecosystem |
-
 </div>
 
 <br/>
