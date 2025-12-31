@@ -91,23 +91,6 @@ const marcus: Developer = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[analisador-movimentos](https://github.com/marcusvramos/analisador-movimentos)** | Motion Analysis System - Real-time movement detection (Bachelor's Thesis) | `Flutter` `Dart` `ML Kit` |
-| **[go-rest-api](https://github.com/marcusvramos/go-rest-api)** | REST API with JWT auth and event management | `Go` `Gin` `SQLite` |
-| **[design-patterns](https://github.com/marcusvramos/design-patterns)** | Strategy, Observer & Template Method patterns | `TypeScript` `Node.js` |
-| **[diabetes-prediction-tool](https://github.com/marcusvramos/diabetes-prediction-tool)** | ML model for diabetes prediction | `Python` `scikit-learn` |
-| **[compiler](https://github.com/marcusvramos/compiler)** | Compiler for a custom language | `JavaScript` |
-| **[clean-architecture](https://github.com/marcusvramos/clean-architecture)** | Clean Architecture implementation | `Java` `Spring` |
-
-</div>
-
-<br/>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> GitHub Stats
 
 <div align="center">
