@@ -121,10 +121,26 @@ const marcus: Developer = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" /> GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" /> Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marcusvramos&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployed-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Serverless-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Certified-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+<div align="center">
+
+| Achievement | Description |
+|:-----------:|-------------|
+| **80%+ Approval Rate** | Students passing public service IT exams |
+| **Millions of Transactions** | Processing real-time in iGaming platforms |
+| **90% Query Optimization** | Database performance improvement |
+| **3 Integrated Systems** | Built complete educational ecosystem |
+
 </div>
 
 <br/>
