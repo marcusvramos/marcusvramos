@@ -94,7 +94,7 @@ const marcus: Developer = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=marcusvramos&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=marcusvramos&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea"/>
 </div>
 
 <br/>
