@@ -25,7 +25,7 @@ const marcus: Developer = {
     currentWork: {
         company: "Alfa Entretenimento S/A",
         focus: "iGaming Platform with Real-Time Processing",
-        stack: ["Go", "Python", "React Native", "AWS", "ClickHouse"]
+        stack: ["Node", "Go", "Python", "React Native", "React", "AWS", "ClickHouse"]
     },
 
     expertise: {
