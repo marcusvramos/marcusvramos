@@ -23,9 +23,9 @@ const marcus: Developer = {
     roles: ["Full-Stack Engineer", "Tech Educator", "Content Creator"],
 
     currentWork: {
-        company: "Alfa Entretenimento S/A",
-        focus: "iGaming Platform with Real-Time Processing",
-        stack: ["Node", "Go", "Python", "React Native", "React", "AWS", "ClickHouse"]
+        company: "StarSoft",
+        focus: "iGaming Platform",
+        stack: ["Node", "React", "AWS", "PostgreSQL"]
     },
 
     expertise: {
