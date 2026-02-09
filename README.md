@@ -22,12 +22,6 @@ const marcus: Developer = {
     education: "Bachelor's in Computer Science @ UNOESTE",
     roles: ["Full-Stack Engineer", "Tech Educator", "Content Creator"],
 
-    currentWork: {
-        company: "StarSoft",
-        focus: "iGaming Platform",
-        stack: ["Node", "React", "AWS", "PostgreSQL"]
-    },
-
     expertise: {
         backend: ["Node.js", "NestJS", "Go", "Python", "Express"],
         frontend: ["React", "Next.js", "React Native", "TypeScript"],
